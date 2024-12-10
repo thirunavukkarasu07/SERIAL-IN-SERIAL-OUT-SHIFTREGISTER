@@ -76,4 +76,4 @@ RegisterNumber:24006365
 
 **RESULTS**
 
-Thus the shift registers are implemented and outputs are verified
+Thus the SISO shift registers are implemented and outputs are verified
